@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I have a cool name. oreeeeoreoreooooo
-But, Hey I'm Alan! 😁
+But, Hey this is Alan! 😁
 
 WELCOME to this little place....
 
