@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a cool name. But I'm Alan! 
+## I have a cool name. But, Hey I'm Alan from Hong Kong!😁
+WELCOME to this little place....
+feel free to read nothing, 
+still learning hopefully build some interesting things here to share.
+
