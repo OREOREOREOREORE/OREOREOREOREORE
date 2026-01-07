@@ -21,4 +21,4 @@ feel free to read nothing, still learning hopefully build some interesting thing
 
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"></a><br><a href="https://octo-ring.com/p/OREOREOREOREORE/prev">prev</a><a href="https://octo-ring.com/p/OREOREOREOREORE/random">random</a><a href="https://octo-ring.com/p/OREOREOREOREORE/next">next</a><br><a href="https://octo-ring.com/"</a></td></tr></tbody></table>
+<tbody><a href="https://octo-ring.com/"></a><br><a href="https://octo-ring.com/p/OREOREOREOREORE/prev"> prev </a><a href="https://octo-ring.com/p/OREOREOREOREORE/random"> random </a><a href="https://octo-ring.com/p/OREOREOREOREORE/next"> next </a><br><a href="https://octo-ring.com/"</a></tbody>
