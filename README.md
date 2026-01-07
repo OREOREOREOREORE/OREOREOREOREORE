@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 But, Hey this is Alan! 😁
 
 WELCOME to this little place....
-
 feel free to read nothing, still learning hopefully build some interesting things here to share.
 
 
 
-<tbody><a href="https://octo-ring.com/"></a><br><a href="https://octo-ring.com/p/OREOREOREOREORE/prev"> prev </a><a href="https://octo-ring.com/p/OREOREOREOREORE/random"> random </a><a href="https://octo-ring.com/p/OREOREOREOREORE/next"> next </a><br><a href="https://octo-ring.com/"</a></tbody>
+<tbody><div align="center" style="font-family: monospace;"><a href="https://octo-ring.com/">octo-ring</a><br><a href="https://octo-ring.com/p/OREOREOREOREORE/prev"> prev </a><a href="https://octo-ring.com/p/OREOREOREOREORE/random"> random </a><a href="https://octo-ring.com/p/OREOREOREOREORE/next">     next </a><br><a href="https://octo-ring.com/"</a></div></tbody>
