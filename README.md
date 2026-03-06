@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 ## I have a cool name. oreeeeoreoreooooo
 But, Hey this is Alan! 😁
 
-WELCOME to this little place....
-feel free to read nothing, still learning hopefully build some interesting things here to share.
+WELCOME to this little corner....
 
 
 
