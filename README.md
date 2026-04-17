@@ -20,3 +20,5 @@ WELCOME to this little corner....
 
 
 <tbody><div align="center" style="font-family: monospace;"><a href="https://octo-ring.com/">octo-ring</a><br><a href="https://octo-ring.com/p/OREOREOREOREORE/prev"> prev </a><a href="https://octo-ring.com/p/OREOREOREOREORE/random"> random </a><a href="https://octo-ring.com/p/OREOREOREOREORE/next">     next </a><br><a href="https://octo-ring.com/"</a></div></tbody>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=oreoreoreoreore)
